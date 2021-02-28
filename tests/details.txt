@@ -1,0 +1,17 @@
+#303030 grey
+#e8631c orange
+font family : oswald (or) monteserrat
+div1:693   X
+div2:963   x
+12.08cm totalle
+singleCard:width ="3.14cm or 26%" height="4.19cm or 55% "
+img{style="height:66%;"}
+0.1208
+div3:961   X
+div4:952   X
+div5:958   X
+div6:974   X
+div7:968   x
+div8:591   X
+div9:471
+jlassifiras6@gmail.com
